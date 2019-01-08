@@ -7,5 +7,6 @@ module.exports = (robot) ->
       "もうすこしふぁいと！"
       "あらー"
       "いやし〜" 
+      "いやしびーーーーーーーーーむ"
     ]
     msg.reply "#{iyashi}"
